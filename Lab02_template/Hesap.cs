@@ -7,11 +7,15 @@ namespace Lab02_template
 {
     public struct Koordinat
     {
-        public int x;
+        public int X;
+        public Coords(int p_x, int p_y)
+        {
+            //Constructor metot
+        }
     }
     public struct Daire
     {
-         public  Koordinat k; //Sol üst köşe koordinat
+         public  Koordinat K; //Sol üst köşe koordinat
     }
     public struct Dikdortgen
     {
