@@ -5,5 +5,5 @@
 -	Dikdortgen struct’nin içerisinde yükseklik, genişlik ve sol üst köşesinin koordinat bilgisi tutulmaktadır.
 -	Hesap sınıfının içerisinde daire ve dikdörtgen örneklerinin merkez koordinatları, çevresi ve alanını hesaplayacak static metotlar tanımlanmalıdır.
 -	Main metodu içerisinde Daire ve Dikdortgen örnekleri oluşturularak Hesap sınıfının ilgili metotları test edilmelidir.
--	Projenizi komu satırı yolluyla derleyiniz. Ayrıca projenizin içerisinde Hesap sınıfını komut satırı yolluyla dll olarak derleyiniz. 
+-	Projenizi komut satırı kullanarak derleyiniz. Ayrıca projenizin içerisindeki Hesap sınıfını komut satırı yoluyla dll olarak derleyiniz. 
     - **Not:** Komut satırı ile derleme konusundaki doküman: https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/command-line-building-with-csc-exe 
